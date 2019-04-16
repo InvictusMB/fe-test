@@ -47,7 +47,8 @@ Om het simpel te houden gaan we er even vanuit dat alle properties van het schem
 
 Zie de `examples` folder voor voorbeelden van schema validaties.
 
-De implementatie staat geheel open, wij zien graag wat jouw go-to manier is om zoiets op te lossen.
+De implementatie staat geheel open, wij zien graag wat jouw go-to manier is om zoiets op te lossen. 
+
 
 ## Oplevering
 Gelieve een Git repo die wij kunnen clonen en lokaal kunnen draaien. Verder is het handig als wij de werking van je code makkelijk kunnen bevestigen d.m.v. wat code dat het script runt. 
