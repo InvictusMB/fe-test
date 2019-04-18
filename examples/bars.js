@@ -17,7 +17,7 @@ const barObj = {
 const barObjF = {
     name: 'Sjonnies',
     address: 'Centrum 001',
-    drinks: [
+    drinks: [ // < No object
         'Heineken', 
     ]
 };
