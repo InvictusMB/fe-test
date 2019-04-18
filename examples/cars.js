@@ -19,7 +19,7 @@ const carObj = {
 const carObjF = {
     brand: 'BMW',
     type: '335',
-    milage: '100000',
+    milage: '100000', // < No number
     extras: [
         'LCI',
         'KW Coilovers',
