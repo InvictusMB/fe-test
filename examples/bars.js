@@ -18,6 +18,12 @@ const barObjF = {
     name: 'Sjonnies',
     address: 'Centrum 001',
     drinks: [ // < No object
-        'Heineken', 
+        'Heineken',
     ]
 };
+
+module.exports = {
+    barSchema,
+    barObj,
+    barObjF,
+}

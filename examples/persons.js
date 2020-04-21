@@ -21,3 +21,9 @@ const personObjF = {
     age: 25,
     active: true,
 };
+
+module.exports = {
+    personSchema,
+    personObj,
+    personObjF,
+}
